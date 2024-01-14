@@ -3,6 +3,7 @@
   "version": "2024.1 Prerelease",
   "private": true,
   "type": "module",
+  "homepage": "https://qbranch4327.github.io/scouting-app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
